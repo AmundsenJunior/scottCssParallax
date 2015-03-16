@@ -4,7 +4,8 @@
 Available at https://amundsenjunior.github.io/scottCssParallax
 
 ## Sources / Inspirations
-*** https://github.com/KrishnaRSampath/cssparallax ***
+https://github.com/KrishnaRSampath/cssparallax
+https://github.com/derekkoch/parallaxOnePage-trueParallax
 https://css-tricks.com/3d-parralax-background-effect/
 http://stackoverflow.com/questions/20021846/parallax-scrolling-with-css-only#20955982
 
